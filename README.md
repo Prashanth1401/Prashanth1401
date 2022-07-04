@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prashanth1401
 - 👀 I’m interested in ...learning new things
 - 🌱 I’m currently Working as ...Web Developer 
-- 💞️ I’m looking to collaborate on ...software developer 
 - 📫 How to reach me ...prashanthpatel2580@gmail.com
 
 <!---
